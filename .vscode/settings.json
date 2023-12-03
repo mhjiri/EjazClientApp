@@ -1,0 +1,9 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/969b9a4e-32a4-46cd-8511-b5e24afef038/resourceGroups/Ejaz/providers/Microsoft.Web/sites/EjazClient",
+    "appService.deploySubpath": "build",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.showBuildDuringDeployPrompt": false
+}
